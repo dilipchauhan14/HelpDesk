@@ -1,4 +1,6 @@
+
 <?php
+//Singup page of the HelpDesk
 // define variables and set to empty values
 $nameErr = $emailErr = $usernameErr = $passErr = $cpassErr=$collegeErr="";
 $name = $email = $username = $pass= $cpass =$college="";$aaa="";$matchErr="";
@@ -244,11 +246,8 @@ HELP DESK JEE
         mysqli_query($db,$sq);
         session_destroy();
     }
+//Footer
 ?>
-
-
-
-
 
 </body>
 
