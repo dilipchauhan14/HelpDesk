@@ -246,9 +246,9 @@ HELP DESK JEE
         mysqli_query($db,$sq);
         session_destroy();
     }
-//Footer
 ?>
 
 </body>
 
 </html>
+<!-- Footer -->
