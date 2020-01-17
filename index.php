@@ -234,7 +234,7 @@ hdfvhjdf
 	</div>
 	</form>
 
-	Good work
+
 
 <?php
  $log=$_GET['log'];
@@ -255,5 +255,4 @@ shdgkhdjsdsdadjq
 </body>
 
 </html>
-
-//yes
+<!-- </html> -->
