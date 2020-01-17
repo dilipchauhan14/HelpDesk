@@ -1,9 +1,5 @@
 # HelpDesk
 
-Helps you. :))))
-More to know.
-Good work.
-
-# webhooks payload url https://s9u0wdufd0.execute-api.us-east-2.amazonaws.com/default/github_pull_request
-
-Done,.
+Help Desk would help you.
+Enjoy.
+Have a Good Day.
