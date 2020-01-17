@@ -3,10 +3,6 @@ github webhooks check
 aws api endpoint check
 fvf
 <?php
-//good boy
-//cjsmdf
-//Singup page of the HelpDesk
-// define variables and set to empty values
 $nameErr = $emailErr = $usernameErr = $passErr = $cpassErr=$collegeErr="";
 $name = $email = $username = $pass= $cpass =$college="";$aaa="";$matchErr="";nfjerfnmds
 $x=$y=0;$loginErr="";
@@ -238,7 +234,7 @@ hdfvhjdf
 	</div>
 	</form>
 
-ooooo no man
+	Good work
 
 <?php
  $log=$_GET['log'];
