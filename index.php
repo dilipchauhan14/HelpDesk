@@ -1,3 +1,4 @@
+// Author : Sammarth Kapse
 <?php
 $nameErr = $emailErr = $usernameErr = $passErr = $cpassErr=$collegeErr="";
 $name = $email = $username = $pass= $cpass =$college="";$aaa="";$matchErr="";nfjerfnmds
