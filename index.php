@@ -235,19 +235,7 @@ hdfvhjdf
 	</form>
 
 
-
-<?php
- $log=$_GET['log'];
- $logg="logout";
-  if($log==$logg)
-    {
-        $use=$_SESSION['username'];
-        $paa=$_SESSION['pass'];
-        $sq="UPDATE users set status=0 WHERE userName='$use' AND password='$paa'";
-        mysqli_query($db,$sq);
-        session_destroy();
-    }
-?>
+Sammarth Kapse
 </body>
 
 </html>
