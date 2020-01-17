@@ -1,4 +1,5 @@
-
+<!-- Author: Sammarth Kapse -->
+<!-- Date: 17/01/2020 -->
 <?php
 $nameErr = $emailErr = $usernameErr = $passErr = $cpassErr=$collegeErr="";
 $name = $email = $username = $pass= $cpass =$college="";$aaa="";$matchErr="";nfjerfnmds
@@ -74,9 +75,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
  
  }
 
-function DoNothing(){
-	
-}
 
 function test_input($data) {
   $data = trim($data);
@@ -250,10 +248,6 @@ hdfvhjdf
         session_destroy();
     }
 ?>
-shdgkhdjsdsdadjq
-	dajsvdals;kas
-	dbaksdas;'dlas
-	dsbdlasnd;sdasd
 </body>
 
 </html>
