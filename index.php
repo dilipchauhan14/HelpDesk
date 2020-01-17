@@ -1,7 +1,3 @@
-aws lambda check
-github webhooks check
-aws api endpoint check
-fvf
 <?php
 $nameErr = $emailErr = $usernameErr = $passErr = $cpassErr=$collegeErr="";
 $name = $email = $username = $pass= $cpass =$college="";$aaa="";$matchErr="";nfjerfnmds
@@ -76,6 +72,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
       } 
  
  }
+
+function DoNothing(){
+	
+}
+
 function test_input($data) {
   $data = trim($data);
   $data = stripslashes($data);
