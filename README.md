@@ -1,8 +1,6 @@
 # HelpDesk
-Helps you to waste your time.
-//scjnfvjknfd
 
-#editted the file 
+Helps you. :))))
 
 #readme file altered
 
